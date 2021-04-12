@@ -1,0 +1,2 @@
+;;; Generated package description from treemacs-persp.el  -*- no-byte-compile: t -*-
+(define-package "treemacs-persp" "20210114.2135" "Persp-mode integration for treemacs" '((emacs "26.1") (treemacs "0.0") (persp-mode "2.9.7") (dash "2.11.0")) :commit "b92d43aa6974c8581ea7a4f4b3586041a7f44f32" :authors '(("Alexander Miller" . "alexanderm@web.de")) :maintainer '("Alexander Miller" . "alexanderm@web.de") :url "https://github.com/Alexander-Miller/treemacs")
