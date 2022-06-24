@@ -40,6 +40,8 @@ This function should only modify configuration layer settings."
      yaml
      (python :variables
              evilmi-always-simple-jump t
+             python-backend 'lsp
+             python-lsp-server 'pyright
              )
      ;; ----------------------------------------------------------------
      ;; Example of useful layers you may want to use right away.
